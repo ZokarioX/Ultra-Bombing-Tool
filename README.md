@@ -1,16 +1,8 @@
 
-  RevengeBomber2.0🔴🔴🔴🔴
+  Ultra Bombing Tool🔴🔴🔴🔴
 
 
 ##
-
-<h3 align="center">
-:: Workflow ::
-</h3>
-<p align="center">
-<img src="https://images.prismic.io/pepipost/e3269b46-fa9c-4a6f-945a-eccc268cd2dd_types+of+emails+scam.gif?auto=compress,format"/>
-</p>
- <a href="https://www.buymeacoffee.com/alexbieber" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 ## About Tool:
 
